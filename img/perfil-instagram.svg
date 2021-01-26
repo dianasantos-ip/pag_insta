@@ -1591,13 +1591,17 @@ zio1H4P/ACNxa0IQFCxIszeKOCHF4l4g4iqEMJdNTYgvmf/Z
 "
        id="image12"
        clip-path="url(#clipPath839)"
-       transform="translate(-2.48327)" />
+       transform="translate(-2.48327)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
        style="fill:none;stroke:url(#meshgradient853);stroke-width:66.5989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="path843"
        cx="487.25378"
        cy="473.30319"
-       r="454.45432" />
+       r="454.45432"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
   <script
      id="mesh_polyfill"
